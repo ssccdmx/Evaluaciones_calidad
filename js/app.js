@@ -66,7 +66,8 @@ formulario.addEventListener('submit', async (e) => {
             "CNI": formulario.CNI.value,
             "MCMS": formulario.MCMS.value,
             "RFMA": formulario.RFMA.value,
-            "VEMG": formulario.VEMG.value
+            "VEMG": formulario.VEMG.value,
+            "SBG": formulario.SBG.value
            
         })
     });
