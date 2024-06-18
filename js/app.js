@@ -45,6 +45,8 @@ formulario.addEventListener('submit', async (e) => {
             "VCAR_W": formulario.VCAR_W.value,
             "CAES_F": formulario.CAES_F.value,
             "CAES_L": formulario.CAES_L.value,
+            "CNI_F": formulario.CNI_F.value,
+            "CNI_L": formulario.CNI_L.value,
             "JSJ_F": formulario.JSJ_F.value,
             "JSJ_L": formulario.JSJ_L.value,
             "LGMS_F": formulario.LGMS_F.value,
